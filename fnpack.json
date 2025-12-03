@@ -1,0 +1,18 @@
+
+{
+  "customIcon": {
+    "display_name": "测试",
+    "desc": "用于测是的一个应用。",
+    "labels": "工具,效率,快捷方式",
+    "version": "1.0.1",
+    "author": "87wazi",
+    "author_url": "https://qq8.uk",
+    "download_url": "",
+    "bug_report_url": "https://qq8.uk",
+    "install_type": "系统空间",
+    "size": "1.20",
+    "history": {
+      "v1.0.1": "轻量（应用包仅1.2MB）、低占用"
+    }
+  }
+}
