@@ -1,6 +1,6 @@
 
 {
-  "customIcon": {
+  "test": {
     "display_name": "测试",
     "desc": "用于测是的一个应用。",
     "labels": "工具,效率,快捷方式",
