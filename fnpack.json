@@ -1,10 +1,10 @@
 
 {
   "test": {
-    "display_name": "测试",
-    "desc": "用于测是的一个应用。",
-    "labels": "工具,效率,快捷方式",
-    "version": "1.0.1",
+    "display_name": "Memos",
+    "desc": "一款开源的自托管笔记服务。你的想法、你的数据、由你掌控 —— 无跟踪、无广告、无订阅费用。",
+    "labels": "工具,效率",
+    "version": "0.25.0",
     "author": "87wazi",
     "author_url": "https://qq8.uk",
     "download_url": "",
