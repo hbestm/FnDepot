@@ -14,9 +14,7 @@
     "history": {
       "v0.25.0": "轻量（应用包仅0.18MB）、低占用"
     }
-  }
-}
-{
+  },
   "dsm": {
     "display_name": "DSM",
     "version": "7.0.1",
