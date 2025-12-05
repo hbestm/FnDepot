@@ -2,17 +2,17 @@
 {
   "memos": {
     "display_name": "Memos",
-    "desc": "一款开源的自托管笔记服务。你的想法、你的数据、由你掌控 —— 无跟踪、无广告、无订阅费用。",
+    "desc": "一款开源的自托管笔记服务。你的想法、你的数据、由你掌控，多端数据共享，安卓客服端，随时记录，更有浏览器插件，方便快捷。—— 无跟踪、无广告、无订阅费用。",
     "labels": "工具,效率",
     "version": "0.25.0",
     "author": "87wazi",
-    "author_url": "https://qq8.uk",
+    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
     "download_url": "",
-    "bug_report_url": "https://qq8.uk",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
     "install_type": "系统空间",
     "size": "1.20",
     "history": {
-      "v1.0.1": "轻量（应用包仅1.2MB）、低占用"
+      "v0.25.0": "轻量（应用包仅0.18MB）、低占用"
     }
   }
 }
