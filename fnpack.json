@@ -17,7 +17,7 @@
   }
 }
 {
-  "DSM": {
+  "dsm": {
     "display_name": "DSM",
     "version": "7.0.1",
     "desc": "群晖7.0容器安装版",
