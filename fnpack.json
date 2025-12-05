@@ -16,3 +16,19 @@
     }
   }
 }
+{
+  "DSM": {
+    "display_name": "DSM",
+    "version": "7.0.1",
+    "desc": "群晖7.0容器安装版",
+    "labels": "工具,效率",
+    "author": "87袜子",
+    "author_url": "https://github.com/usememos/memos",
+    "bug_report_url": "https://github.com/usememos/memos",
+    "install_type": "存储空间",
+    "size": "80",
+    "history": {
+      "7.0.1": "初始版本.欢迎反馈"
+    }
+  }
+}
