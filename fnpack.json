@@ -17,16 +17,16 @@
   },
   "dsm": {
     "display_name": "DSM",
-    "version": "7.0.1",
-    "desc": "群晖7.0容器安装版",
+    "version": "7.2.2",
+    "desc": "群晖7.2容器安装版，官方镜像，丝滑体验，可安装成功后在后台在线升级。",
     "labels": "工具,效率",
     "author": "87袜子",
-    "author_url": "https://github.com/usememos/memos",
-    "bug_report_url": "https://github.com/usememos/memos",
+    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
     "install_type": "存储空间",
-    "size": "80",
+    "size": "96",
     "history": {
-      "7.0.1": "初始版本.欢迎反馈"
+      "7.2.2": "初始版本.可在线升级"
     }
   }
 }
