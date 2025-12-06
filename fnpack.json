@@ -28,5 +28,19 @@
     "history": {
       "7.2.2": "初始版本.可在线升级"
     }
+  },
+   "miguvideo": {
+    "display_name": "咪咕TV",
+    "version": "1.0.0",
+    "desc": "咪咕的官方电视直播源。",
+    "labels": "生活",
+    "author": "87袜子",
+    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "install_type": "存储空间",
+    "size": "0.13",
+    "history": {
+      "1.0.0": "初始版本。"
+    }
   }
 }
