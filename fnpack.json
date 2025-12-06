@@ -18,7 +18,7 @@
   "dsm": {
     "display_name": "DSM",
     "version": "7.2.2",
-    "desc": "群晖7.2容器安装版，官方镜像，丝滑体验，可安装成功后在后台在线升级。",
+    "desc": "群晖7.2容器版，官方镜像，丝滑体验，可安装成功后在后台在线升级。占用内存约2G。",
     "labels": "工具,效率",
     "author": "87袜子",
     "author_url": "https://qm.qq.com/q/4MKTzfs9os",
