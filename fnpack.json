@@ -46,7 +46,7 @@
     "display_name": "EasyVoice",
     "version": "1.0.0",
     "desc": "EasyVoice 是一个开源的文本、小说智能转语音解决方案，旨在帮助用户轻松将文本内容转换为高质量的语音输出。\n一键生成语音和字幕,AI 智能推荐配音,完全免费，无时长、无字数限制。\n支持将 10 万字以上的小说一键转为有声书！流式传输，多长的文本都能立刻播放支持自定义多角色配音。\n无论你是想听小说、为创作配音，还是打造个性化音频，EasyVoice 都是你的最佳助手！\n本项目需要Node.js V22环境，请在应用中心自行安装。",
-    "labels": "生活，工具,效率",
+    "labels": "生活,工具,效率",
     "author": "87袜子",
     "author_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://github.com/cosin2077/easyVoice",
