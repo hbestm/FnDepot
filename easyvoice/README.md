@@ -43,10 +43,7 @@
 - **试听功能** 🎧  
   生成前可试听效果，确保每一句都如你所愿！  
 
-## Screenshots📸
 
-![Home](./images/readme.home.jpg)
-![Generate](./images/readme.generate.jpg)
 
 ## 快速开始 🚀
 
