@@ -32,7 +32,7 @@
    "miguvideo": {
     "display_name": "咪咕TV",
     "version": "1.0.0",
-    "desc": "咪咕的官方电视直播源。需要Node.js V22环境，自行安装",
+    "desc": "咪咕的官方电视直播源，需要Node.js V22环境，请自行安装,可配合OmniBox，LunaTV实现在线播放。",
     "labels": "生活",
     "author": "87袜子",
     "author_url": "https://qm.qq.com/q/4MKTzfs9os",
