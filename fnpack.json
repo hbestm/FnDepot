@@ -62,7 +62,7 @@
    "gotify": {
     "display_name": "Gotify",
     "version": "2.7.3",
-    "desc": "一个自托管的推送通知服务。",
+    "desc": "一个自托管的推送通知服务。初始账号，密码：admin",
     "labels": "生活,工具,效率",
     "author": "87袜子",
     "author_url": "https://qm.qq.com/q/4MKTzfs9os",
