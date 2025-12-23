@@ -58,5 +58,19 @@
     "history": {
       "v1.0.0": "初始版本。"
     }
+  },
+   "gotify": {
+    "display_name": "Gotify",
+    "version": "2.7.3",
+    "desc": "一个自托管的推送通知服务。",
+    "labels": "生活,工具,效率",
+    "author": "87袜子",
+    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "bug_report_url": "https://github.com/gotify",
+    "install_type": "存储空间",
+    "size": "0.98",
+    "history": {
+      "v2.7.3": "初始版本。"
+    }
   }
 }
