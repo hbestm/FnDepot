@@ -33,7 +33,7 @@ We wanted a simple server for sending and receiving messages (in real time per W
 
 ## Features
 
-<img alt="Gotify UI screenshot" src="[ui.png](https://github.com/gotify/server/blob/master/ui.png)" align="right" width="500px"/>
+<img alt="Gotify UI screenshot" src="https://github.com/gotify/server/blob/master/ui.png)" align="right" width="500px"/>
 
 * send messages via REST-API
 * receive messages via WebSocket
