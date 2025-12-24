@@ -1,9 +1,5 @@
 # 概览
 
-<p align="center">
-  <a href="https://github.com/Termix-SSH/Termix">
-    <img alt="Termix Banner" src=./public/icon.svg style="width: 250px; height: 250px;">  </a>
-</p>
 
 Termix 是一个开源、永久免费、自托管的一体化服务器管理平台。它提供了一个基于网页的解决方案，通过一个直观的界面管理你的服务器和基础设施。Termix
 提供 SSH 终端访问、SSH 隧道功能以及远程文件管理，还会陆续添加更多工具。Termix 是适用于所有平台的完美免费自托管 Termius 替代品。
@@ -84,25 +80,6 @@ volumes:
 频道，但响应时间可能较长。
 
 # 展示
-
-<p align="center">
-  <img src="./repo-images/Image 1.png" width="400" alt="Termix Demo 1"/>
-  <img src="./repo-images/Image 2.png" width="400" alt="Termix Demo 2"/>
-</p>
-
-<p align="center">
-  <img src="./repo-images/Image 3.png" width="400" alt="Termix Demo 3"/>
-  <img src="./repo-images/Image 4.png" width="400" alt="Termix Demo 4"/>
-</p>
-
-<p align="center">
-  <img src="./repo-images/Image 5.png" width="400" alt="Termix Demo 5"/>
-  <img src="./repo-images/Image 6.png" width="400" alt="Termix Demo 6"/>
-</p>
-
-<p align="center">
-  <img src="./repo-images/Image 7.png" width="400" alt="Termix Demo 7"/>
-</p>
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/88936e0d-2399-4122-8eee-c255c25da48c" width="800" controls>
