@@ -72,5 +72,19 @@
     "history": {
       "v2.7.3": "初始版本。"
     }
+  },
+   "termix": {
+    "display_name": "Termix-SSH",
+    "version": "1.9.0",
+    "desc": "Termix 是一个开源的服务器管理平台，具备 SSH 终端、隧道和文件编辑功能。默认端口7790",
+    "labels": "工具,效率",
+    "author": "87袜子",
+    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "bug_report_url": "https://github.com/Termix-SSH/Termix",
+    "install_type": "存储空间",
+    "size": "0.04",
+    "history": {
+      "v1.9.0": "初始版本。"
+    }
   }
 }
