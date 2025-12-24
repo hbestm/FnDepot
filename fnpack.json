@@ -86,5 +86,19 @@
     "history": {
       "v1.9.0": "初始版本。"
     }
+  },
+   "iptv": {
+    "display_name": "iptv-checker",
+    "version": "4.3.0.1",
+    "desc": "iptv-checker 是款跨平台的直播源检测工具，支持Docker部署和Windows客户端。它能通过FFmpeg的ffprobe组件深度分析视频流，比普通ping检测更精准。默认端口7791",
+    "labels": "工具,生活，电视",
+    "author": "87袜子",
+    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "bug_report_url": "https://github.com/zhimin-dev/iptv-checker",
+    "install_type": "存储空间",
+    "size": "0.09",
+    "history": {
+      "v4.3.0.1": "初始版本。"
+    }
   }
 }
