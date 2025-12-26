@@ -100,5 +100,19 @@
     "history": {
       "v4.3.0.1": "初始版本。"
     }
+  },
+   "ittools": {
+    "display_name": "It-tools",
+    "version": "2024.10.22-7ca5933",
+    "desc": "IT-TOOLS是备受瞩目的免费开源工具站点项目，为开发人员和IT专业人员提供了一个便捷的在线工具集合。该项目以其小巧轻便、易于部署以及功能强大、界面美观等特点而广受欢迎，令人赞叹。这个集合包括各种实用工具，如令牌生成器、大小写转换器、基本转换器、哈希文本、UUID生成、二维码生成器等等，默认端口7792",
+    "labels": "工具,效率,IT",
+    "author": "87袜子",
+    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "bug_report_url": "https://github.com/CorentinTh/it-tools",
+    "install_type": "存储空间",
+    "size": "0.08",
+    "history": {
+      "v2024.10.22-7ca5933": "初始版本。"
+    }
   }
 }
