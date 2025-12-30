@@ -114,5 +114,19 @@
     "history": {
       "v2024.10.22-7ca5933": "初始版本。"
     }
+  },
+   "prunemate-cn": {
+    "display_name": "PruneMate-CN",
+    "version": "1.3.1",
+    "desc": "PruneMate 是一个简洁轻量的Docker垃圾清理工具，通过定时清理未使用的镜像、容器、网络和卷，让你的Docker主机保持整洁高效。汉化by:87袜子（默认占用端口7676）",
+    "labels": "工具,效率,Docker",
+    "author": "87袜子",
+    "author_url": "https://github.com/hbestm/PruneMate-CN",
+    "bug_report_url": "https://github.com/anoniemerd/PruneMate",
+    "install_type": "存储空间",
+    "size": "5.64",
+    "history": {
+      "v1.3.1": "初始版本。"
+    }
   }
 }
