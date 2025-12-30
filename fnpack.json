@@ -128,5 +128,19 @@
     "history": {
       "v1.3.1": "初始版本。"
     }
+  },
+   "app2docker": {
+    "display_name": "App2Docker",
+    "version": "1.0.1",
+    "desc": "一键将应用打包成 Docker 镜像的可视化平台（默认占用端口7795）",
+    "labels": "工具,效率,Docker",
+    "author": "87袜子",
+    "author_url": "https://gitee.com/numen06/app2docker",
+    "bug_report_url": "https://gitee.com/numen06/app2docker",
+    "install_type": "存储空间",
+    "size": "0.013",
+    "history": {
+      "v1.3.1": "初始版本。"
+    }
   }
 }
