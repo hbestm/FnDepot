@@ -147,7 +147,7 @@
    "kvideo": {
     "display_name": "KVideo",
     "version": "1.0.0",
-    "desc": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。（默认占用端口7798）",
+    "desc": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 Liquid Glass 设计语言，提供流畅的视觉体验和强大的视频搜索功能。（默认占用端口7798）",
     "labels": "影视,生活",
     "author": "87袜子",
     "author_url": "https://github.com/KuekHaoYang/KVideo",
