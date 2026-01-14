@@ -177,7 +177,7 @@
    "myspeed": {
     "display_name": "MySpeed",
     "version": "1.0.9",
-    "desc": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 Liquid Glass 设计语言，提供流畅的视觉体验和强大的视频搜索功能。（默认密码password，占用端口7798）",
+    "desc": "MySpeed 是一款网络速度测试分析软件，可以记录您的互联网速度数据，最长可达30天。汉化by:87袜子",
     "labels": "工具,效率,IT",
     "author": "87袜子",
     "author_url": "https://github.com/gnmyt/myspeed",
