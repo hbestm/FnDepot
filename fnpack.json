@@ -15,20 +15,26 @@
       "v0.25.3": "更新到最新版，修复客户端连接问题。"
     }
   },
-  "dsm": {
+"dsm": {
     "display_name": "DSM",
-    "version": "7.2.2",
+    "platform": [
+        "x86"
+    ],
     "desc": "群晖7.2容器版，官方镜像，丝滑体验，可安装成功后在后台在线升级。占用内存约2G。",
     "labels": "工具,效率",
-    "author": "87袜子",
-    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "version": "7.2.2",
+    "distributor": "87袜子",
+    "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
     "install_type": "存储空间",
     "size": "96",
-    "history": {
-      "v7.2.2": "初始版本.可在线升级"
+    "changelog": "初始版本.可在线升级",
+    "arch_diff": {
+        "x86": {
+            "download_url": "https://github.com/hbestm/FnDepot/releases/download/DSM/dsm.fpk"
+        }
     }
-  },
+},
   "wechat-article-exporter": {
     "display_name": "公众号下载器",
     "version": "1.0.0",
