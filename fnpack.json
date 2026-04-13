@@ -27,8 +27,8 @@
     "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
     "install_type": "存储空间",
-    "size": "96",
-    "changelog": "初始版本.可在线升级",
+    "size": "344",
+    "changelog": "自带PAT版本.可在线升级",
     "arch_diff": {
         "x86": {
             "download_url": "https://github.com/hbestm/FnDepot/releases/download/DSM/dsm.fpk"
