@@ -20,7 +20,7 @@
     "platform": [
         "x86"
     ],
-    "desc": "群晖7.2容器版，官方镜像，丝滑体验，可安装成功后在后台在线升级。占用内存约2G。",
+    "desc": "群晖容器版，官方镜像制作，自带PAT文件，极速安装，可后台在线升级。占用内存约2G。",
     "labels": "工具,效率",
     "version": "7.2.2",
     "distributor": "87袜子",
@@ -28,7 +28,7 @@
     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
     "install_type": "存储空间",
     "size": "344",
-    "changelog": "自带PAT版本.可在线升级",
+    "changelog": "自带PAT版本.离线极速安装，可在线升级",
     "arch_diff": {
         "x86": {
             "download_url": "https://github.com/hbestm/FnDepot/releases/download/DSM/dsm.fpk"
