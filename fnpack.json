@@ -1,216 +1,218 @@
 {
   "memos": {
     "display_name": "memos",
+    "platform": "x86",
+    "version": "0.26.0",
     "desc": "一款开源的自托管笔记服务。你的想法、你的数据、由你掌控，多端数据共享，安卓客服端，随时记录，更有浏览器插件，方便快捷。—— 无跟踪、无广告、无订阅费用。",
     "labels": "工具,效率",
-    "version": "0.26.0",
-    "author": "87袜子",
-    "author_url": "https://github.com/usememos/memos",
-    "download_url": "",
+    "distributor": "87袜子",
+    "distributor_url": "https://github.com/usememos/memos",
     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.18",
-    "history": {
-      "v0.26.0": "更新到最新版，修复客户端连接问题。",
-      "v0.25.3": "更新到最新版，修复客户端连接问题。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/memos/memos.fpk",
+    "changelog": "更新到最新版，修复客户端连接问题。"
   },
-"dsm": {
+  "dsm": {
     "display_name": "DSM",
-    "platform": [
-        "x86"
-    ],
+    "platform": "x86",
+    "version": "7.2.2",
     "desc": "群晖容器版，官方镜像制作，自带PAT文件，极速安装，可后台在线升级。占用内存约2G。",
     "labels": "工具,效率",
-    "version": "7.2.2",
     "distributor": "87袜子",
     "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "344",
+    "download_url": "",
     "changelog": "自带PAT版本.离线极速安装，可在线升级",
     "arch_diff": {
-        "x86": {
-            "download_url": "https://github.com/hbestm/FnDepot/releases/download/DSM/dsm.fpk"
-        }
+      "x86": {
+        "download_url": "https://github.com/hbestm/FnDepot/releases/download/DSM/dsm.fpk"
+      }
     }
-},
+  },
   "wechat-article-exporter": {
     "display_name": "公众号下载器",
+    "platform": "x86",
     "version": "1.0.0",
     "desc": "一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。默认端口7799",
     "labels": "工具,效率",
-    "author": "87袜子",
-    "author_url": "https://github.com/wechat-article/wechat-article-exporter",
+    "distributor": "87袜子",
+    "distributor_url": "https://github.com/wechat-article/wechat-article-exporter",
     "bug_report_url": "https://github.com/wechat-article/wechat-article-exporter",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.315",
-    "history": {
-      "v1.0.0": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/wechat-article-exporter/wechat-article-exporter.fpk",
+    "changelog": "初始版本。"
   },
   "mgvideo": {
     "display_name": "咪咕TV",
+    "platform": "x86",
     "version": "1.0.6",
     "desc": "咪咕的官方电视直播源,可配合OmniBox，LunaTV实现在线播放。",
     "labels": "生活,影视,直播",
-    "author": "87袜子",
-    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "distributor": "87袜子",
+    "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.136",
-    "history": {
-      "v1.0.6": "同步最新镜像,废弃mhost参数。",
-      "v1.0.5": "同步最新镜像，优化安装流程，建议保留ID及Token后删除原应用，重新安装。",
-      "v1.0.4": "优化安装时的提示，无功能更新。",
-      "v1.0.3": "1.同步最新源码。2.增加画质，7: 原画，9: 4K，ps:蓝光及以上需要登录且有VIP。3.去掉安装时端口选择 4.因增加新可选参数，建议先删除后安装，注意保留ID及Token。",
-      "v1.0.2": "\n1.优化安装流程。 \n2.安装过程中可自定义端口、ID、token、host等关键信息（默认值可以正常使用。） \n3.安装过程中自动检查node.js环境，可自动安装。",
-      "v1.0.0": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/mgvideo/mgvideo.fpk",
+    "changelog": "同步最新镜像,废弃mhost参数。"
   },
   "easyvoice": {
     "display_name": "EasyVoice",
+    "platform": "x86",
     "version": "1.0.0",
     "desc": "EasyVoice 是一个开源的文本、小说智能转语音解决方案，旨在帮助用户轻松将文本内容转换为高质量的语音输出。\n一键生成语音和字幕,AI 智能推荐配音,完全免费，无时长、无字数限制。\n支持将 10 万字以上的小说一键转为有声书！流式传输，多长的文本都能立刻播放支持自定义多角色配音。\n无论你是想听小说、为创作配音，还是打造个性化音频，EasyVoice 都是你的最佳助手！\n本项目需要Node.js V22环境，请在应用中心自行安装。",
     "labels": "生活,工具,效率",
-    "author": "87袜子",
-    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "distributor": "87袜子",
+    "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://github.com/cosin2077/easyVoice",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.25",
-    "history": {
-      "v1.0.0": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/easyvoice/easyvoice.fpk",
+    "changelog": "初始版本。"
   },
   "gotify": {
     "display_name": "Gotify",
+    "platform": "x86",
     "version": "2.7.3",
     "desc": "一个自托管的推送通知服务。初始账号，密码：admin,默认端口7789",
     "labels": "生活,工具,效率",
-    "author": "87袜子",
-    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "distributor": "87袜子",
+    "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://github.com/gotify",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.096",
-    "history": {
-      "v2.7.3": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/gotify/gotify.fpk",
+    "changelog": "初始版本。"
   },
   "termix": {
     "display_name": "Termix-SSH",
+    "platform": "x86",
     "version": "2.0.1",
     "desc": "Termix 是一个开源的服务器管理平台，具备 SSH 终端、隧道和文件编辑功能。默认端口7790",
     "labels": "工具,效率",
-    "author": "87袜子",
-    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "distributor": "87袜子",
+    "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://github.com/Termix-SSH/Termix",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.04",
-    "history": {
-      "v1.9.0": "初始版本。",
-      "v1.10.0": "量更新内容，见官方网站。",
-      "v2.0.1": "量更新内容，见官方网站。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/termix/termix.fpk",
+    "changelog": "量更新内容，见官方网站。"
   },
   "iptv": {
     "display_name": "iptv-checker",
+    "platform": "x86",
     "version": "4.3.0.1",
     "desc": "iptv-checker 是款跨平台的直播源检测工具，支持Docker部署和Windows客户端。它能通过FFmpeg的ffprobe组件深度分析视频流，比普通ping检测更精准，可配合Omnibox实现自动更新直播源，默认端口7791",
     "labels": "工具,生活,影视",
-    "author": "87袜子",
-    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "distributor": "87袜子",
+    "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://github.com/zhimin-dev/iptv-checker",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.09",
-    "history": {
-      "v4.3.0.1": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/iptv/iptv.fpk",
+    "changelog": "初始版本。"
   },
   "ittools": {
     "display_name": "It-tools",
+    "platform": "x86",
     "version": "2024.10.22-7ca5933",
     "desc": "IT-TOOLS是备受瞩目的免费开源工具站点项目，为开发人员和IT专业人员提供了一个便捷的在线工具集合。该项目以其小巧轻便、易于部署以及功能强大、界面美观等特点而广受欢迎，令人赞叹。这个集合包括各种实用工具，如令牌生成器、大小写转换器、基本转换器、哈希文本、UUID生成、二维码生成器等等，默认端口7792",
     "labels": "工具,效率,IT",
-    "author": "87袜子",
-    "author_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "distributor": "87袜子",
+    "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
     "bug_report_url": "https://github.com/CorentinTh/it-tools",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.08",
-    "history": {
-      "v2024.10.22-7ca5933": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/ittools/ittools.fpk",
+    "changelog": "初始版本。"
   },
   "prunemate-cn": {
     "display_name": "PruneMate-CN",
+    "platform": "x86",
     "version": "1.3.1",
     "desc": "PruneMate 是一个简洁轻量的Docker垃圾清理工具，通过定时清理未使用的镜像、容器、网络和卷，让你的Docker主机保持整洁高效。汉化by:87袜子（默认占用端口7676）",
     "labels": "工具,效率,Docker",
-    "author": "87袜子",
-    "author_url": "https://github.com/hbestm/PruneMate-CN",
+    "distributor": "87袜子",
+    "distributor_url": "https://github.com/hbestm/PruneMate-CN",
     "bug_report_url": "https://github.com/anoniemerd/PruneMate",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.01",
-    "history": {
-      "v1.3.2": "1.修改日期显示格式，更符合国人习惯。2.修改部分汉化表述。3.支持ARM系统",
-      "v1.3.1": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/prunemate-cn/prunemate-cn.fpk",
+    "changelog": "初始版本。"
   },
   "app2docker": {
     "display_name": "App2Docker",
+    "platform": "x86",
     "version": "1.0.1",
     "desc": "一键将应用打包成 Docker 镜像的可视化平台（默认占用端口7795）",
     "labels": "工具,效率,Docker",
-    "author": "87袜子",
-    "author_url": "https://gitee.com/numen06/app2docker",
+    "distributor": "87袜子",
+    "distributor_url": "https://gitee.com/numen06/app2docker",
     "bug_report_url": "https://gitee.com/numen06/app2docker",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.013",
-    "history": {
-      "v1.0.1": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/app2docker/app2docker.fpk",
+    "changelog": "初始版本。"
   },
   "kvideo": {
     "display_name": "KVideo",
+    "platform": "x86",
     "version": "1.2.0",
     "desc": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 Liquid Glass 设计语言，提供流畅的视觉体验和强大的视频搜索功能。（默认密码password，占用端口7798）",
     "labels": "影视,生活",
-    "author": "87袜子",
-    "author_url": "https://github.com/KuekHaoYang/KVideo",
+    "distributor": "87袜子",
+    "distributor_url": "https://github.com/KuekHaoYang/KVideo",
     "bug_report_url": "https://github.com/KuekHaoYang/KVideo",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.03",
-    "history": {
-      "v1.2.0": "Upgrade。",
-      "v1.0.0": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/kvideo/kvideo.fpk",
+    "changelog": "Upgrade。"
   },
   "myspeed": {
     "display_name": "MySpeed",
+    "platform": "x86",
     "version": "1.0.9",
     "desc": "MySpeed 是一款网络速度测试分析软件，可以记录您的互联网速度数据，最长可达30天。汉化by:87袜子",
     "labels": "工具,效率,IT",
-    "author": "87袜子",
-    "author_url": "https://github.com/gnmyt/myspeed",
+    "distributor": "87袜子",
+    "distributor_url": "https://github.com/gnmyt/myspeed",
     "bug_report_url": "https://github.com/gnmyt/myspeed",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.04",
-    "history": {
-      "v1.0.0": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/myspeed/myspeed.fpk",
+    "changelog": "初始版本。"
   },
   "astr-bot": {
     "display_name": "AstrBot",
+    "platform": "x86",
     "version": "1.0.1",
     "desc": "AstrBot 是一个开源的一站式 Agentic 个人和群聊助手，可在 QQ、Telegram、企业微信、飞书、钉钉、Slack、等数十款主流即时通讯软件上部署，此外还内置类似 OpenWebUI 的轻量化 ChatUI，为个人、开发者和团队打造可靠、可扩展的对话式智能基础设施。无论是个人 AI 伙伴、智能客服、自动化助手，还是企业知识库，AstrBot 都能在你的即时通讯软件平台的工作流中快速构建 AI 应用。",
     "labels": "工具,效率,IT",
-    "author": "87袜子",
-    "author_url": "https://github.com/hbestm/FnDepot",
+    "distributor": "87袜子",
+    "distributor_url": "https://github.com/hbestm/FnDepot",
     "bug_report_url": "https://astrbot.app/",
+    "isdocker": "false",
     "install_type": "存储空间",
     "size": "0.04",
-    "history": {
-      "v1.0.1": "初始版本。"
-    }
+    "download_url": "https://github.com/hbestm/FnDepot/raw/main/astr-bot/astr-bot.fpk",
+    "changelog": "初始版本。"
   },
   "flatnas": {
     "display_name": "FlatNas导航",
@@ -220,12 +222,11 @@
     "labels": "工具,导航,效率",
     "distributor": "青芷是大佬",
     "distributor_url": "https://flatnas.top/",
-    "download_url": "",
-    "isdocker": "true",
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/issues",
+    "isdocker": "true",
     "install_type": "存储空间",
     "size": "0.2",
+    "download_url": "",
     "changelog": "更新至 1.1.3-dev3"
   }
-}
 }
