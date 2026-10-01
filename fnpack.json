@@ -412,6 +412,41 @@
           }
         }
       }
+    },
+    "usque": {
+      "display_name": "USQUE",
+      "desc": "基于 Cloudflare WARP MASQUE 协议的开源代理（原作 diniboy）。支持 IPv4/IPv6 自动切换、TCP/UDP 传输、SOCKS5/HTTP 代理类型，可配置 WARP 密钥与代理认证。默认端口 1080。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "https://github.com/hbestm/FnDepot/raw/main/usque/ICON.PNG",
+      "preview_urls": [
+        "https://github.com/hbestm/FnDepot/raw/main/usque/Preview/01.png"
+      ],
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "maintainer": "diniboy",
+      "maintainer_url": "https://github.com/Diniboy1123",
+      "distributor": "87袜子",
+      "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
+      "bug_report_url": "https://github.com/Diniboy1123/usque/issues",
+      "releases": {
+        "4.5.1": {
+          "changelog": "初始版本：IPv4/IPv6 自动切换、TCP/UDP 传输、SOCKS5/HTTP 代理、可选代理认证。",
+          "updated_at": "2026-10-01T18:00:00+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/usque/usque.fpk",
+              "sha256": "81d7ab804ee130c7eda97db68a5f1f4fee16f517933447022b9a4bb3a573b2ab",
+              "size": 5159065
+            }
+          }
+        }
+      }
     }
   }
 }
