@@ -481,6 +481,17 @@
               "size": 2579378
             }
           }
+        },
+        "1.0.5": {
+          "changelog": "1.0.5：应用图标更换为爪印爱心手绘图标。",
+          "updated_at": "2026-10-04T22:20:00+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/llm2api/llm2api.fpk",
+              "sha256": "bcad7a56b8be05c20f54834e21c7fc493cd6406bdbee5cb1ed219c79356baa71",
+              "size": 2724134
+            }
+          }
         }
       }
     }
