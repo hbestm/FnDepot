@@ -447,6 +447,42 @@
           }
         }
       }
+    },
+    "llm2api": {
+      "display_name": "LLM2API",
+      "desc": "<b>LLM2API（多上游、多协议转换的 LLM 代理网关）</b>，上游项目 badafans/llm2api（MIT 开源）。把各家上游的 OpenAI / Anthropic / Responses API 统一成 OpenAI Chat 格式对外提供，同时支持 Anthropic Messages、OpenAI Responses 的透传与互转。客户端只用你在面板里配置的「模型别名」发请求，网关按别名路由到对应上游、完成协议互转、转发请求并记录 Token 用量。默认端口 18333。<br/><br/><b>核心特性</b><br/>① 三种协议同时暴露：/v1/chat/completions、/v1/messages、/v1/responses；<br/>② 消息体、工具调用、reasoning 字段、SSE 流式事件双向互转；<br/>③ 多上游管理，单个上游支持多 API Key 轮询；<br/>④ 严格别名路由：裸上游模型名一律 400；<br/>⑤ 429 / 502 / 503 / 504 智能重试；<br/>⑥ 按模型独立 SOCKS5 代理出口；<br/>⑦ 按模型 Token 统计，每日重置并持久化；<br/>⑧ 内嵌自托管 Web 管理面板，无外部 CDN 依赖，内网离线可用。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "编程开发",
+        "AI赋能"
+      ],
+      "icon_url": "https://github.com/hbestm/FnDepot/raw/main/llm2api/ICON.PNG",
+      "preview_urls": [
+        "https://github.com/hbestm/FnDepot/raw/main/llm2api/Preview/01.png"
+      ],
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "maintainer": "badafans",
+      "maintainer_url": "https://github.com/badafans/llm2api",
+      "distributor": "87袜子",
+      "distributor_url": "https://github.com/hbestm/FnDepot",
+      "bug_report_url": "https://github.com/badafans/llm2api/issues",
+      "releases": {
+        "1.0.4": {
+          "changelog": "初始版本：三协议端点、双向格式互转、多上游多 Key 轮询、智能重试、SOCKS5 代理、Token 统计、内嵌管理面板。",
+          "updated_at": "2026-10-04T22:00:00+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/llm2api/llm2api.fpk",
+              "sha256": "fd4d0149e33cc46a460c2232cbe8ae28e6c2551e02508ec78a02077d33d8f62c",
+              "size": 2579378
+            }
+          }
+        }
+      }
     }
   }
 }
