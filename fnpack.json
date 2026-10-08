@@ -529,6 +529,42 @@
           }
         }
       }
+    },
+    "cliproxyapi-native": {
+      "display_name": "CPA",
+      "desc": "把 Claude Code / Codex / Gemini / Kimi 等 CLI 账号包装成 OpenAI / Gemini / Claude 兼容 API，附带用量与成本统计面板。原生运行，无需 Docker。<br/>安装后请在共享目录「cpa」的「登录信息.txt」中查看初始管理密钥与面板密码。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "AI赋能",
+        "编程开发"
+      ],
+      "icon_url": "https://github.com/hbestm/FnDepot/raw/main/cpa/ICON.PNG",
+      "preview_urls": [
+        "https://github.com/hbestm/FnDepot/raw/main/cpa/Preview/01.png"
+      ],
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "maintainer": "router-for-me / Willxup",
+      "maintainer_url": "https://github.com/router-for-me/CLIProxyAPI",
+      "distributor": "87袜子",
+      "distributor_url": "https://github.com/hbestm",
+      "bug_report_url": "https://github.com/router-for-me/CLIProxyAPI/issues",
+      "releases": {
+        "2.2.1": {
+          "changelog": "统一面板单入口；支持在线检查与一键更新两个二进制（更新后自动生效，无需停启应用）；共享目录只保留一份登录信息。",
+          "updated_at": "2026-10-09T01:40:00+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/cpa/cpa.fpk",
+              "sha256": "cabf292a0be0873bfff0f5fd94a3ae46b9af4b4fee794361ba513852f65f7ef9",
+              "size": 29434549
+            }
+          }
+        }
+      }
     }
   }
 }
