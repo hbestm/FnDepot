@@ -494,6 +494,42 @@
           }
         }
       }
+    },
+    "znaide": {
+      "display_name": "znaide",
+      "desc": "跑在终端里的通用 AI 助手：自然语言下指令，自主改文件、跑命令、查资料、整理数据。Rust 从零实现，单个静态二进制、零 Node 依赖、中文交互，本地模型与云 API 通吃。浏览器内终端界面，经飞牛统一网关访问。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "AI赋能"
+      ],
+      "icon_url": "https://github.com/hbestm/FnDepot/raw/main/znaide/ICON.PNG",
+      "preview_urls": [
+        "https://github.com/hbestm/FnDepot/raw/main/znaide/Preview/01.png"
+      ],
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "maintainer": "twowb",
+      "maintainer_url": "https://github.com/twowb/znaide",
+      "distributor": "87袜子",
+      "distributor_url": "https://github.com/hbestm/FnDepot",
+      "bug_report_url": "https://github.com/twowb/znaide/issues",
+      "releases": {
+        "1.0.8-19": {
+          "changelog": "初始版本：双架构（x86/arm），浏览器内终端界面。",
+          "updated_at": "2026-10-09T00:22:28+0800",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/znaide/znaide.fpk",
+              "sha256": "173339fc3e732fdd804c39753263ea718faa7360026a8a5059f88d9293a483e7",
+              "size": 5858450
+            }
+          }
+        }
+      }
     }
   }
 }
