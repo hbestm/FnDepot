@@ -530,7 +530,7 @@
         }
       }
     },
-    "cliproxyapi-native": {
+    "cpa": {
       "display_name": "CPA",
       "desc": "把 Claude Code / Codex / Gemini / Kimi 等 CLI 账号包装成 OpenAI / Gemini / Claude 兼容 API，附带用量与成本统计面板。原生运行，无需 Docker。<br/>安装后请在共享目录「cpa」的「登录信息.txt」中查看初始管理密钥与面板密码。",
       "platform": [
