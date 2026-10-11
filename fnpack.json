@@ -577,7 +577,14 @@
       ],
       "icon_url": "https://github.com/hbestm/FnDepot/raw/main/fnlxc/ICON.PNG",
       "preview_urls": [
-        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/01.png"
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/01.png",
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/02.png",
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/03.png",
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/04.png",
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/05.png",
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/06.png",
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/07.png",
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/08.png"
       ],
       "run_as": "root",
       "install_type": "",
