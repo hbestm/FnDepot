@@ -565,6 +565,41 @@
           }
         }
       }
+    },
+    "fnlxc": {
+      "display_name": "FnLxc",
+      "desc": "飞牛 FnOS 的 LXC 容器 Web 管理面板，参考 Proxmox VE 分步向导。三种来源、三种网络、MAC 固定、静态IP+DNS、SSH 状态检测、高级一键安装（SSH/Docker/1Panel/Lucky）、控制台、bind mount、资源限制、开机自启、统一网关鉴权、lxcfs 内存显示。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "https://github.com/hbestm/FnDepot/raw/main/fnlxc/ICON.PNG",
+      "preview_urls": [
+        "https://github.com/hbestm/FnDepot/raw/main/fnlxc/Preview/01.png"
+      ],
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "maintainer": "87袜子",
+      "maintainer_url": "https://github.com/hbestm/fndepot",
+      "distributor": "87袜子",
+      "distributor_url": "https://github.com/hbestm/fndepot",
+      "bug_report_url": "https://github.com/hbestm/fndepot",
+      "releases": {
+        "2.2.0": {
+          "changelog": "2.2.0：新增高级标签一键安装（SSH/Docker/1Panel/Lucky，异步+局部刷新+结果浮层）；概览显示 SSH 状态；修复 Docker 安装不支持 Debian testing(forky)、容器 IP 误显示为 docker 网关、重启按钮失效、1Panel 访问信息提取。",
+          "updated_at": "2026-10-11T11:26:04+0800",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/fnlxc/fnlxc.fpk",
+              "sha256": "f05212e4b1e025a12e4c7a3fa20610b843ad92316915ae94e24e7bc2e24a0c47",
+              "size": 4213552
+            }
+          }
+        }
+      }
     }
   }
 }
