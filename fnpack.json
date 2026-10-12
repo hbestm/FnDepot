@@ -635,7 +635,10 @@
             }
           }
         }
-      }
+      },
+      "preview_urls": [
+        "https://github.com/hbestm/FnDepot/raw/main/dianciniu/Preview/01.png"
+      ]
     }
   }
 }
