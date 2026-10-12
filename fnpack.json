@@ -629,7 +629,7 @@
           "changelog": "修复了一些BUG；补全应用描述（磁力/种子、转发视频/文件 两条下载路径）",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/dianciniu.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/dianciniu_x86_0.7.0.fpk",
               "size": 54152276,
               "sha256": "158d10495a81dd3096f8bcfe4c4587b96115d9f231f04729f3b3ef86c4aa4255"
             }
