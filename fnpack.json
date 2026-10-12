@@ -610,6 +610,17 @@
               "sha256": "158d10495a81dd3096f8bcfe4c4587b96115d9f231f04729f3b3ef86c4aa4255"
             }
           }
+        },
+        "0.7.1": {
+          "changelog": "修复了一些BUG；补全应用描述（磁力/种子、转发视频/文件 两条下载路径）",
+          "updated_at": "2026-10-12T23:33:39+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.7.1.fpk",
+              "size": 54158383,
+              "sha256": "4084da290ba22f21dbf7be63a540c122974813e0b213f29abf90a2c5ea7f6a47"
+            }
+          }
         }
       },
       "preview_urls": [
