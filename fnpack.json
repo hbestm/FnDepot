@@ -111,13 +111,13 @@
       "distributor_url": "https://qm.qq.com/q/4MKTzfs9os",
       "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
       "releases": {
-        "1.0.6": {
-          "changelog": "同步最新镜像,废弃mhost参数。",
+        "1.2.2": {
+          "changelog": "新增「应用设置」可修改配置（ID / Token / 画质 / 端口 / HDR / h265 / 更新间隔），改完自动重启生效；修复桌面图标缺失；对齐飞牛最新开发规范。",
           "packages": {
             "x86": {
               "download_url": "https://github.com/hbestm/FnDepot/raw/main/mgvideo/mgvideo.fpk",
-              "size": 206357,
-              "sha256": "a2bbea4d097a7c37203c5cb8861c64195b1074ffcac04d4f9fb15fe7665e8717"
+              "size": 103312,
+              "sha256": "d87151186614fe6172859695c7717dead4ca2ec300e0e334ff65df243fc58c0d"
             }
           }
         }
@@ -603,6 +603,35 @@
               "download_url": "https://github.com/hbestm/FnDepot/raw/main/fnlxc/fnlxc.fpk",
               "sha256": "f05212e4b1e025a12e4c7a3fa20610b843ad92316915ae94e24e7bc2e24a0c47",
               "size": 4213552
+            }
+          }
+        }
+      }
+    },
+    "dianciniu": {
+      "display_name": "电磁牛",
+      "desc": "把磁力链、种子文件，或直接转发的视频/文件交给 Telegram 机器人，自动下载到你的飞牛 NAS。内置静态编译的 qBittorrent 引擎，不依赖 Docker 与外部下载器；下载位置可选应用文件区或你授权目录，支持做种限制。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/ICON.PNG",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "87袜子",
+      "distributor_url": "https://github.com/hbestm/FnDepot",
+      "bug_report_url": "https://github.com/hbestm/FnDepot/issues",
+      "releases": {
+        "0.6.24": {
+          "changelog": "磁力/种子/转发文件下载，内置静态 qBittorrent 引擎与本地 Bot API 服务，不依赖 Docker。",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/dianciniu.fpk",
+              "size": 54153799,
+              "sha256": "24b8cc84c87c4a39616985cc1f80fb53d61cbea53e35ac5925027c07a36fe412"
             }
           }
         }
