@@ -625,11 +625,34 @@
       "distributor_url": "https://github.com/hbestm/FnDepot",
       "bug_report_url": "https://github.com/hbestm/FnDepot/issues",
       "releases": {
-        "0.7.0": {
-          "changelog": "修复了一些BUG；补全应用描述（磁力/种子、转发视频/文件 两条下载路径）",
+        "0.6.24": {
+          "changelog": "磁力/种子/转发文件下载，内置静态 qBittorrent 引擎与本地 Bot API 服务，不依赖 Docker。",
+          "updated_at": "2026-10-12T22:33:27+08:00",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/dianciniu_x86_0.7.0.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.6.24.fpk",
+              "size": 54153799,
+              "sha256": "24b8cc84c87c4a39616985cc1f80fb53d61cbea53e35ac5925027c07a36fe412"
+            }
+          }
+        },
+        "0.6.25": {
+          "changelog": "修复了一些BUG",
+          "updated_at": "2026-10-12T22:47:16+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.6.25.fpk",
+              "size": 54151417,
+              "sha256": "db2e499f9e8a2fb1d9112c5424351d9123de066751817185b235010b9c0b90fe"
+            }
+          }
+        },
+        "0.7.0": {
+          "changelog": "修复了一些BUG；补全应用描述（磁力/种子、转发视频/文件 两条下载路径）",
+          "updated_at": "2026-10-12T23:00:02+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.7.0.fpk",
               "size": 54152276,
               "sha256": "158d10495a81dd3096f8bcfe4c4587b96115d9f231f04729f3b3ef86c4aa4255"
             }
@@ -638,7 +661,10 @@
       },
       "preview_urls": [
         "https://github.com/hbestm/FnDepot/raw/main/dianciniu/Preview/01.png"
-      ]
+      ],
+      "readme_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/README.md",
+      "maintainer": "87袜子",
+      "maintainer_url": "https://github.com/hbestm/FnDepot"
     }
   }
 }
