@@ -583,7 +583,7 @@
           "updated_at": "2026-10-12T22:33:27+08:00",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.6.24.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_0.6.24.fpk",
               "size": 54153799,
               "sha256": "24b8cc84c87c4a39616985cc1f80fb53d61cbea53e35ac5925027c07a36fe412"
             }
@@ -594,7 +594,7 @@
           "updated_at": "2026-10-12T22:47:16+08:00",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.6.25.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_0.6.25.fpk",
               "size": 54151417,
               "sha256": "db2e499f9e8a2fb1d9112c5424351d9123de066751817185b235010b9c0b90fe"
             }
@@ -605,7 +605,7 @@
           "updated_at": "2026-10-12T23:00:02+08:00",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.7.0.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_0.7.0.fpk",
               "size": 54152276,
               "sha256": "158d10495a81dd3096f8bcfe4c4587b96115d9f231f04729f3b3ef86c4aa4255"
             }
@@ -616,7 +616,7 @@
           "updated_at": "2026-10-12T23:33:39+08:00",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_0.7.1.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_0.7.1.fpk",
               "size": 54158383,
               "sha256": "4084da290ba22f21dbf7be63a540c122974813e0b213f29abf90a2c5ea7f6a47"
             }
@@ -627,7 +627,7 @@
           "updated_at": "2026-10-16T15:20:20+08:00",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/dianciniu/fpk/dianciniu_x86_1.0.18.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_1.0.18.fpk",
               "size": 54237367,
               "sha256": "d4cf6f88ef8967d3fb99dae2b1e417fa265015716d541439b7e4a93188bb6300"
             }
