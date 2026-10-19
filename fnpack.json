@@ -563,7 +563,7 @@
     },
     "dianciniu": {
       "display_name": "电磁牛",
-      "desc": "用 Telegram 遥控飞牛下载：把磁力链、种子文件，或直接把视频/文件转发给机器人，自动存到 NAS。磁力与种子交给内置的静态 qBittorrent 引擎；转发的文件由内置本地 Bot API 接收，并按类型归档到 telegram/ 的 视频/音乐/图片/其他 子目录。用 /status、/cancel、/resume、/delete 等命令在聊天里就能管理任务。不依赖 Docker 与外部下载器。",
+      "desc": "用 Telegram 遥控飞牛下载：把磁力链、种子文件，或直接把视频/文件转发给机器人，自动存到 NAS。磁力与种子交给内置的静态 qBittorrent 引擎；转发的文件 ≤20MB 走官方云端接口，>20MB 走 tdl 高速通道（MTProto 直连，不限大小，需先发 /tlogin 扫码登录一次），并按类型归档到 telegram/ 的 视频/音乐/图片/其他 子目录。用 /status、/cancel、/resume、/delete 等命令或消息下的按钮在聊天里就能管理任务。不依赖 Docker 与外部下载器。",
       "platform": [
         "x86"
       ],
@@ -630,6 +630,17 @@
               "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_1.0.18.fpk",
               "size": 54237367,
               "sha256": "d4cf6f88ef8967d3fb99dae2b1e417fa265015716d541439b7e4a93188bb6300"
+            }
+          }
+        },
+        "1.2.2": {
+          "changelog": "1.2.2：状态页 13 个问号全部压成一句话（只讲\"这行是什么\"，操作步骤归 /help、实现细节归 /diag）；大文件通道按三态显示。详情见 CHANGELOG.md",
+          "updated_at": "2026-10-19T11:18:10+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_1.2.2.fpk",
+              "size": 50895573,
+              "sha256": "8dbf60f0ade915956954efa9b88e4278a596409e3f8598a1a1c571e33f05fe2f"
             }
           }
         }
