@@ -654,6 +654,17 @@
               "sha256": "aebd091dddb7ab5d3646ff6e88a111ef04471aa808f883ca2f17fc3bc277efb5"
             }
           }
+        },
+        "1.2.6": {
+          "changelog": "内置下载引擎升级到 qBittorrent 5.3.0；贴链接下载时总大小暂时未知，统一显示为「探测中」（状态页、/status、任务卡片三处一致）。",
+          "updated_at": "2026-10-25T10:46:57+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_1.2.6.fpk",
+              "size": 51398025,
+              "sha256": "a7637ac998f7440ec3c6048dee1475bcb8055f21e6ac29e873dc2f4b2426e7ab"
+            }
+          }
         }
       },
       "preview_urls": [
