@@ -553,13 +553,25 @@
           "updated_at": "2026-10-11T11:26:04+0800",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/hbestm/FnDepot/raw/main/fnlxc/fnlxc.fpk",
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/fnlxc/fnlxc_x86_2.2.0.fpk",
               "sha256": "f05212e4b1e025a12e4c7a3fa20610b843ad92316915ae94e24e7bc2e24a0c47",
               "size": 4213552
             }
           }
+        },
+        "2.7.9": {
+          "changelog": "安全加固：应用 socket 权限收紧、写接口防 CSRF、网络配置加白名单（堵住配置注入导致的容器逃逸）、控制台不再把宿主环境变量带进容器。体验：界面改为浅色主题并支持深色切换（对比度达 WCAG AA）、SSH 端口可自定义、磁盘限额与资源限制更可靠、容器内可直接运行 Docker。",
+          "updated_at": "2026-11-01T00:36:49+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/fnlxc/fnlxc_x86_2.7.9.fpk",
+              "size": 4243038,
+              "sha256": "09c26a5a1771c477000dd8ff6758fc35c091e16a4917c588b0179289d8a841f7"
+            }
+          }
         }
-      }
+      },
+      "readme_url": "https://github.com/hbestm/FnDepot/raw/main/fnlxc/README.md"
     },
     "dianciniu": {
       "display_name": "电磁牛",
