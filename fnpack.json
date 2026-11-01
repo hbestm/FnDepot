@@ -569,6 +569,17 @@
               "sha256": "09c26a5a1771c477000dd8ff6758fc35c091e16a4917c588b0179289d8a841f7"
             }
           }
+        },
+        "3.0.0": {
+          "changelog": "界面重设计 —— Slate 蓝灰双主题、矢量图标、玻璃拟态顶栏/弹窗（WCAG AA）；移动端适配：侧栏收紧、卡片式列表、触控目标加大；创建流程容器名支持点号并即时校验、进度悬浮胶囊；删除确认一律输入容器名、运行中强停警告；一键安装 apt 超时自动切国内镜像、任务线程异常兜底；列表/侧栏数据无变化零 DOM 写入；目录选择器固定高度内滚。",
+          "updated_at": "2026-11-01T12:10:51+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/fnlxc/fnlxc_x86_3.0.0.fpk",
+              "size": 4250138,
+              "sha256": "5a88d6bbe8cd3a1300b0d3612d7e6d348dabef09479c0f6388e02b1551951a7f"
+            }
+          }
         }
       },
       "readme_url": "https://github.com/hbestm/FnDepot/raw/main/fnlxc/README.md"
