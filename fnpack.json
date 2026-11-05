@@ -688,6 +688,17 @@
               "sha256": "a7637ac998f7440ec3c6048dee1475bcb8055f21e6ac29e873dc2f4b2426e7ab"
             }
           }
+        },
+        "1.2.9": {
+          "changelog": "新增 /cleardone 清空「已完成」列表 —— 只清记录不删文件，/status 与命令菜单已同步。另外精简了卡住任务的提示：去掉多余的括号与统计数字，只留现象和两个解决办法，保留「已 X 时长」便于判断是否该放弃。",
+          "updated_at": "2026-11-05T23:17:42+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_1.2.9.fpk",
+              "size": 51399770,
+              "sha256": "cb46dfe9d54b0f989559a91bd6baad3e88de8b59c2cf5b71bb2568de398229c1"
+            }
+          }
         }
       },
       "preview_urls": [
