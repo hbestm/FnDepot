@@ -699,6 +699,17 @@
               "sha256": "cb46dfe9d54b0f989559a91bd6baad3e88de8b59c2cf5b71bb2568de398229c1"
             }
           }
+        },
+        "1.2.11": {
+          "changelog": "/cleardone 现在把已完成的 BT 任务一并清掉（文件保留，做种停止），回执改为报数：清了多少、还剩什么。",
+          "updated_at": "2026-11-14T08:11:48+08:00",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/hbestm/FnDepot/releases/download/dianciniu/dianciniu_x86_1.2.11.fpk",
+              "size": 51400479,
+              "sha256": "a465480a0510558943ddb6e1304873f49cc2784e087c574cd00e14d059e731e6"
+            }
+          }
         }
       },
       "preview_urls": [
